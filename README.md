@@ -2,6 +2,9 @@
 
 A React implementation of the classic Pokemon Voltorb Flip puzzle game.
 
+To Play It:
+https://weeksix.github.io/Voltorb_Flip/
+
 ## Run Locally
 
 **Prerequisites:** Node.js
